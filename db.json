@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "Adam",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "8367367",
+      "id": 1
+    },
+    {
+      "name": "Tommy",
+      "address": "Japan",
+      "email": "tom@gmail.com",
+      "contact": "83786646476",
+      "id": 2
+    },
+    {
+      "name": "James",
+      "email": "james@gmail.com",
+      "contact": "9090909090",
+      "address": "USA",
+      "id": 3
+    },
+    {
+      "name": "Larry",
+      "email": "larry@gmail.com",
+      "contact": "8989898989",
+      "address": "Taiwan",
+      "id": 4
+    },
+    {
+      "name": "Gowri",
+      "email": "gowri@gmail.com",
+      "contact": "123456789",
+      "address": "India",
+      "id": 5
+    }
+  ]
+}
